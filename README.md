@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The research team needs to update the file permissions for certain files and directories within the projects directory. The permissions do not currently reflect the level of authorization that should be given. Checking and updating these permissions will help keep their system secure. To complete this task, I performed the following tasks:
+This project was part of a class learning exercise designed to simulate real-world cybersecurity scenarios. The research team needs to update the file permissions for certain files and directories within the projects directory. The permissions do not currently reflect the level of authorization that should be given. Checking and updating these permissions will help keep their system secure. To complete this task, I performed the following tasks:
 <br />
 
 
